@@ -50,5 +50,6 @@ The Power BI dashboard includes:
 ## ✍️ Author
 
 **Muhammed Mufeed Cp**  
-📧 [mhdmufeed15@gmail.com]  
-🔗 [[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mufeed-cp/)]
+📧 [email](mhdmufeed15@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/mufeed-cp/)
+    
